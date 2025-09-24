@@ -1,2 +1,2 @@
-# SQL Practice  
-This repo contains solved SQL problems, case studies, and challenges from my learning journey.  
+# SQL Practice
+Solved queries and business-style case studies (joins, CTEs, window functions, optimization).
